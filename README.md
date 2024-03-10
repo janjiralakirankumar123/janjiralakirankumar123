@@ -1,4 +1,4 @@
-# Welcome to My GitHub Repository 🚀
+# Welcome to My GitHub Account 🚀
 
 ## About Me
 
@@ -17,7 +17,7 @@ Hello, I'm Janjirala Kiran Kumar, a passionate Corporate Trainer and Subject Mat
 - **Scripting Languages:** Bash, Python
 - **Networking:** IT fundamentals
 
-## 📚 Certifications
+## 📚 Global Certifications
 
 - AWS Cloud Practitioner
 - AWS Solutions Architect Associate
@@ -37,7 +37,8 @@ Hello, I'm Janjirala Kiran Kumar, a passionate Corporate Trainer and Subject Mat
 
 ## 🚀 What You'll Find Here
 
-- **Hands-On Training:** Explore practical examples and tutorials on DevOps and Cloud.
+- **DevOps and Cloud Projects:** Discover a collection of projects highlighting the seamless integration of development and operations in the cloud environment.
+- **Hands-On Training:** Explore tutorials and practical examples on DevOps and Cloud.
 - **Code Samples:** Dive into code snippets for various tools and technologies.
 - **Projects:** Collaborative projects showcasing real-world applications.
 - **Certification Resources:** Study materials and insights for AWS and Azure certifications.
@@ -45,8 +46,7 @@ Hello, I'm Janjirala Kiran Kumar, a passionate Corporate Trainer and Subject Mat
 ## 📬 Connect with Me
 
 - **Email:** janjiralakiran4812@gmail.com
-- **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
-- **Phone:** +91-9391086195, 9666614812
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/janjiralakirankumar/)
 
 ## 🌐 Let's Collaborate!
 
